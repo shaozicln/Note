@@ -38,7 +38,7 @@
 
 - XOR 异或门：同假异真
 
-  ![xor](E:\Study\Note\Photo\xor.png)<img src="E:\Study\Note\Photo\door.png" alt="door" style="zoom: 33%;" />
+  ![xor](./Photo/xor.png)<img src="./Photo/door.png" alt="door" style="zoom: 33%;" />
 
 
 
@@ -88,7 +88,7 @@ ASCII Unicode
   -  锁存：放入数据-写入；拿出数据-读取
 
   - 使用门锁矩阵有利于统筹管理，对访问和修改的权限进行限制
-  - <img src="E:\Study\Note\Photo\gated-latch.png" alt="image-20240912184127153" style="zoom: 33%;" />
+  - <img src="./Photo/gated-latch.png" alt="image-20240912184127153" style="zoom: 33%;" />
 
   - 寄存器能存一个数字。这个数字有多少位（二进制），叫做“位宽”
     - 64位宽需要129条线：并排放置
@@ -133,7 +133,7 @@ ASCII Unicode
 
   - 计算机降频：用户离开/运行性能要求较低的程序时降频可以更省电（动态调整频率）
 
-<img src="E:\Study\Note\Photo\CPU.png" alt="image-20240913175000632" style="zoom: 50%;" />
+<img src="./Photo/CPU.png" alt="image-20240913175000632" style="zoom: 50%;" />
 
 ## 8、指令和程序
 
@@ -182,7 +182,7 @@ ASCII Unicode
   - 超标量处理器：一个时钟周期完成多个指令。
     - 即便有指令流水线，处理器也会有闲置的部分
 
-<img src="E:\Study\Note\Photo\超标量处理器.png" alt="image-20240913192432455" style="zoom: 50%;" />	
+<img src="./Photo/超标量处理器.png" alt="image-20240913192432455" style="zoom: 50%;" />	
 
 - ####  同时运行多个指令流的性能提升：多核处理器：
 

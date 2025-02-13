@@ -35,7 +35,7 @@
 
 用来转发消息的设备
 
-![image-20240814092122185](E:\Study\Note\Photo\hub.jpg)
+![image-20240814092122185](./Photo/hub.jpg)
 
 **缺点**
 
@@ -52,11 +52,11 @@
 
 - 提高了带宽的利用率
 
-  ![image-20240814093325402](E:\Study\Note\Photo\jiaohuanji.jpg)
+  ![image-20240814093325402](./Photo/jiaohuanji.jpg)
 
 - 支持桥接：一根线连接两个交换机，实现互相访问
 
-  ![image-20240814093717837](E:\Study\Note\Photo\qiaojie.jpg)
+  ![image-20240814093717837](./Photo/qiaojie.jpg)
 
 **缺点**
 
@@ -74,7 +74,7 @@
 基于路由算法，找到两个网络之间的更优路径，适用于多个网络互互联和数据转发。
 ```
 
-![image-20240814095028160](E:\Study\Note\Photo\luyou.jpg)
+![image-20240814095028160](./Photo/luyou.jpg)
 
 #### IP地址
 
