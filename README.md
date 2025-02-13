@@ -1,2 +1,6 @@
 # Note
-个人笔记
+Computer-based personal notes
+
+- Various online class notes
+- Some solutions
+- Ideas for the question
