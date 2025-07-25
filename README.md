@@ -1,6 +1,8 @@
 # Note
-Computer-based personal notes
+personal notes
 
-- Various online class notes
-- Some solutions
-- Ideas for the question
+- CS_study: Computer theory knowledge study
+- CSpona: Personal blog building
+- Dev_question: Development bug-related
+- NEAUACM: Records of the affairs of the training team
+- Work: Interview related
