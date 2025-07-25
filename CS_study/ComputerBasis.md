@@ -41,8 +41,6 @@
 - **编码**：字符按照 ASCII表 转换为十进制数
 - **解码**：十进制数按照 ASCII表 转换为字符
 
-![bianmajiema](E:\Study\Note\Photo\bianmajiema.png)
-
 ### 字符集与乱码
 
 - **字符集**：世界各个国家和地区制定了支持不同语言的字符集
