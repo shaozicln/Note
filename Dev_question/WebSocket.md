@@ -84,7 +84,7 @@ socket.send(input.value);
 
 ### 2.1 实现流程
 
-![image-20240909203359035](./Photo/聊天室需求分析.png)
+![image-20240909203359035](../CS_study/Photo/聊天室需求分析.png)
 
 ### 2.2 消息格式
 

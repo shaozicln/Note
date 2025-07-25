@@ -6,7 +6,7 @@
 
 
 
-### ![vue-MyBlog构思](./Photo/vue-MyBlog构思.jpg)
+### ![vue-MyBlog构思](../CS_study/Photo/vue-MyBlog构思.jpg)
 
 ### 二版
 
